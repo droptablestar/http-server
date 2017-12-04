@@ -1,4 +1,0 @@
-The report for this assignment can be found in the docs/ directory (report.pdf).
-Code for the client will be found in the client/ directory while code for the
-server will be found in the server/ directory. The mininet/ directory contains
-scipts and data used for evaluation.
