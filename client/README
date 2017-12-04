@@ -1,0 +1,5 @@
+To compile:
+make
+
+To run:
+./client <number_of_threads> <host> <port> <host_name> [file_request]
